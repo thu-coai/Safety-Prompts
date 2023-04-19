@@ -74,5 +74,5 @@ Chinese safety prompts for evaluating and improving the safety of LLMs.
 
 我们还推出了[中文大模型安全评测平台](http://coai.cs.tsinghua.edu.cn/leaderboard/)，可以在此平台查阅各个中文大模型的14个维度下的安全性分数，也可以上传自己的模型（或生成回复）评测安全性。
 
-![platform_snapshot](/Users/sunhao/Desktop/platform/Safety-Prompts/resources/platform_snapshot.png)
+![platform_snapshot](./resources/platform_snapshot.png)
 
