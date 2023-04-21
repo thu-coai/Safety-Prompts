@@ -7,6 +7,8 @@ Chinese safety prompts for evaluating and improving the safety of LLMs.
 
 ## 介绍
 
+[论文 ](https://arxiv.org/abs/2304.10436)详细介绍了我们提出的安全评测benchmark、评测流程和该数据集
+
 [中文大模型安全评测平台](http://coai.cs.tsinghua.edu.cn/leaderboard/) 
 
 [平台介绍博客](https://mp.weixin.qq.com/s/oFQ7diS-Cop_KdVEmtgVkg)
@@ -103,4 +105,19 @@ Dataset({
 我们还推出了[中文大模型安全评测平台](http://coai.cs.tsinghua.edu.cn/leaderboard/)，可以在此平台查阅各个中文大模型的14个维度下的安全性分数，也可以上传自己的模型（或生成回复）评测安全性。
 
 ![platform_snapshot](./resources/platform_snapshot.png)
+
+
+
+## 引用
+
+如果您觉得该数据集或评测平台对您的工作有帮助，请考虑引用我们的论文
+
+```
+@article{sun2023safety,
+      title={Safety Assessment of Chinese Large Language Models}, 
+      author={Hao Sun and Zhexin Zhang and Jiawen Deng and Jiale Cheng and Minlie Huang},
+      journal={arXiv preprint arXiv:2304.10436},
+      year={2023}
+}
+```
 
