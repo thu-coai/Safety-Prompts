@@ -3,6 +3,8 @@ Chinese safety prompts for evaluating and improving the safety of LLMs.
 
 中文安全prompts，用于评测和提升大模型的安全性，将模型的输出与人类的价值观对齐。
 
+[Safety Assessment of Chinese Large Language Models](https://arxiv.org/abs/2304.10436)
+
 ## Update
 
 我们推荐您使用我们最新的基于多选题的评测平台进行模型的安全评测，该库更适合用于训练和微调更安全的模型。
