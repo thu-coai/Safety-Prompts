@@ -3,13 +3,23 @@ Chinese safety prompts for evaluating and improving the safety of LLMs.
 
 中文安全prompts，用于评测和提升大模型的安全性，将模型的输出与人类的价值观对齐。
 
+## Update
 
+我们推荐您使用我们最新的基于多选题的评测平台进行模型的安全评测，该库更适合用于训练和微调更安全的模型。
+
+- 论文: [SafetyBench: Evaluating the Safety of Large Language Models with Multiple Choice Questions](https://arxiv.org/pdf/2309.07045.pdf)
+
+- 仓库：https://github.com/thu-coai/SafetyBench
+
+- 网站：[SafetyBench在线评测与排行榜](https://arxiv.org/pdf/2309.07045.pdf)
 
 ## 介绍
 
 [论文 ](https://arxiv.org/abs/2304.10436)详细介绍了我们提出的安全评测benchmark、评测流程和该数据集
 
 [中文大模型安全评测平台](http://coai.cs.tsinghua.edu.cn/leaderboard/) 
+
+[大模型安全性多选题评测平台](https://llmbench.ai/safety)
 
 [平台介绍博客](https://mp.weixin.qq.com/s/oFQ7diS-Cop_KdVEmtgVkg)
 
