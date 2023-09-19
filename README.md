@@ -7,7 +7,7 @@ Chinese safety prompts for evaluating and improving the safety of LLMs.
 
 ## Update
 
-我们推荐您使用我们最新的基于多选题的评测平台进行模型的安全评测，该库更适合用于训练和微调更安全的模型。
+我们推荐您使用我们最新的基于多项选择题的评测平台进行模型的安全评测，该库更适合用于训练和微调更安全的模型。
 
 - 论文: [SafetyBench: Evaluating the Safety of Large Language Models with Multiple Choice Questions](https://arxiv.org/pdf/2309.07045.pdf)
 
