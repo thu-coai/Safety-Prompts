@@ -84,7 +84,7 @@ Chinese safety prompts for evaluating and improving the safety of LLMs.
 
 我们已经上传到了本仓库中，即`typical_safety_scenarios.json`和`instruction_attack_scenarios.json`
 
-也可以通过HuggingFace的Datasets库使用我们的数据：
+也可以通过Hugging Face的Datasets库使用我们的数据：
 
 ```python
 >>> from datasets import load_dataset
