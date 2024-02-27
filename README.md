@@ -5,6 +5,13 @@ Chinese safety prompts for evaluating and improving the safety of LLMs.
 
 [Safety Assessment of Chinese Large Language Models](https://arxiv.org/abs/2304.10436)
 
+## Update! 中英安全检测器ShieldLM
+
+- 论文：[ShieldLM: Empowering LLMs as Aligned, Customizable and Explainable Safety Detectors](https://arxiv.org/abs/2402.16444)
+
+- 仓库：https://github.com/thu-coai/ShieldLM
+
+
 ## Update
 
 该库更适合用于训练和微调更安全的模型。若您需要进行评测，我们推荐您使用我们最新的基于多项选择题的评测平台进行模型的安全评测。
